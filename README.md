@@ -21,10 +21,8 @@ Assets:
 Mongo DB Atlas
 https://account.mongodb.com/account/l
 
-Heroku CLI:
-https://devcenter.heroku.com/articles...
-
-
+NPM
+https://www.npmjs.com/
 
 Heroku
 https://id.heroku.com/log
