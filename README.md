@@ -1,7 +1,7 @@
 
-<h1>The Forge-Viewer-Family-Revit repository aims to provide a web application that allows users to visualize Revit models using the Revit Forge Viewer, integrating a stack based on MERN (MongoDB, Express, React, and Node.js).<h1>
+The Forge-Viewer-Family-Revit repository aims to provide a web application that allows users to visualize Revit models using the Revit Forge Viewer, integrating a stack based on MERN (MongoDB, Express, React, and Node.js).<h1>
 
-<h1>Main Features:<h1>
+<h1>Main Features:
 Model Visualization: Enables users to view and interact with 3D Revit models in an interactive web environment.
 
 Data Storage: Uses MongoDB to store metadata and data associated with the models, facilitating the management of large volumes of information.
